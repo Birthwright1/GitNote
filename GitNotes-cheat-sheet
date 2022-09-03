@@ -1,0 +1,15 @@
+# first time run for new push only run the <git init> all other commands run when uploading. 
+# cd to the /directory/where/files/exist
+# run the commands listed below to push files to git hub. 
+# git init
+# git add . (this command is for all the files in the dir if you only a selected file then only select the one file)
+# git status
+# git config --global user.name "Your Login Name"
+# git config --global user.email "YourEmail@xxx.com"
+# git commit -m "Notes Field"
+# git status
+# git branch -M main
+# git remote add origin https://github.com/xxx/xxxx.git
+# git push -u origin main
+# Username for 'https://github.com':Your Login Name
+# Password for 'https://Your Login Name@github.com': "USE the token number"
