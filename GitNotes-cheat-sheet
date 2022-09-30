@@ -1,4 +1,4 @@
-# first time run for new push only run the <git init> all other commands run when uploading. 
+# First time run for new push only run the <git init> all other commands run when uploading. 
 # cd to the /directory/where/files/exist
 # run the commands listed below to push files to git hub. 
 # git init
